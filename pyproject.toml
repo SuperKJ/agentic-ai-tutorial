@@ -10,6 +10,7 @@ dependencies = [
     "langchain-core>=1.0.3",
     "langchain-groq>=1.0.0",
     "langgraph>=1.0.2",
+    "langsmith>=0.4.41",
     "notebook>=7.4.7",
     "python-dotenv>=1.2.1",
 ]
